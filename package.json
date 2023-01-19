@@ -33,5 +33,10 @@
 		"vite": "^4.0.0",
 		"vitest": "^0.25.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"@supabase/supabase-js": "^2.4.0",
+		"install": "^0.13.0",
+		"npm": "^9.3.1"
+	}
 }
